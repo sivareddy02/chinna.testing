@@ -1,2 +1,0 @@
-# chinna.testing
-testing purpose
